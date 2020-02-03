@@ -47,6 +47,9 @@
                             <div class="form-group ">
                                 <button type="button" class="btn btn-primary btn-lg btn-block login-button">Register</button>
                             </div>
+                            <div class="form-group">
+                                <router-link to="/"><label for="name" class="cols-sm-2 control-label">Go to Sign In</label></router-link>
+                            </div>
                         </form>
                     </div>
 

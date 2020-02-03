@@ -22,7 +22,7 @@
                             </div>
                             <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">Sign in</button>
                             <hr class="my-4">
-                            <router-link to="/Register"><button class="btn btn-lg btn-google btn-block text-uppercase" type="submit">Register<i class="fab fa-google mr-2"></i> </button></router-link>
+                            <router-link to="/Register"><label for="name" class="cols-sm-2 control-label">Register</label></router-link>
                         </form>
                     </div>
                 </div>
